@@ -4,9 +4,9 @@ const slider = document.querySelector('.slider');
 
 // Liste des images de fond
 const backgrounds = [
-    '../imag/banner-item-01.jpg',
-    '../imag/banner-item-02.jpg',
-    '../imag/banner-item-03.jpg'
+    'imag/banner-item-01.jpg',
+    'imag/banner-item-02.jpg',
+    'imag/banner-item-03.jpg'
 ];
 
 let currentSlide = 0; 
